@@ -1,13 +1,13 @@
 # Real-Time-SSH-Detection-and-Alerting-System
 Real Time SSH Detection and Alerting System
 
-# 🚨 Real-Time SSH Detection and Alerting System
+# Real-Time SSH Detection and Alerting System
 
 A real-time intrusion detection system (IDS) that monitors SSH authentication logs, detects brute-force attacks, and triggers automated alerts with email notifications.
 
 ---
 
-## 📌 Overview
+## Overview
 
 This project simulates a **Security Operations Center (SOC) workflow** by implementing:
 
@@ -21,7 +21,7 @@ The system detects repeated failed SSH login attempts and responds instantly, mi
 
 ---
 
-## ⚙️ Features
+## Features
 
 - 🔍 Real-time monitoring of `/var/log/auth.log`  
 - 🚫 Detection of failed SSH login attempts  
@@ -36,7 +36,7 @@ The system detects repeated failed SSH login attempts and responds instantly, mi
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python 3  
 - Ubuntu Server  
@@ -47,7 +47,7 @@ The system detects repeated failed SSH login attempts and responds instantly, mi
 
 ---
 
-## 🚀 How It Works
+## How It Works
 
 1. Monitors `/var/log/auth.log` in real-time  
 2. Detects `"Failed password"` entries  
@@ -59,29 +59,29 @@ The system detects repeated failed SSH login attempts and responds instantly, mi
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
-### 🔹 Real-Time Log Monitoring
+###  Real-Time Log Monitoring
 ![Real-Time Monitoring](screenshots/1_realtime_log_monitor.png)
 
-### 🔹 Threshold Detection
+###  Threshold Detection
 ![Threshold Detection](screenshots/2_threshold_detection.png)
 
-### 🔹 Alert Trigger
+###  Alert Trigger
 ![Alert Terminal](screenshots/3_alert_logging_terminal.png)
 
-### 🔹 Alert Log File
+###  Alert Log File
 ![Alert Log](screenshots/4_alert_log_file.png)
 
-### 🔹 Email Sent Confirmation
+###  Email Sent Confirmation
 ![Email Sent](screenshots/5_email_sent_terminal.png)
 
-### 🔹 Email Alert Received
+###  Email Alert Received
 ![Email Alert](screenshots/6_email_alert.png)
 
 ---
 
-## ⚙️ Setup
+##  Setup
 
 ### 1. Clone Repo
 
