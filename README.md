@@ -62,22 +62,22 @@ The system detects repeated failed SSH login attempts and responds instantly, mi
 ##  Screenshots
 
 ###  Real-Time Log Monitoring
-![Real-Time Monitoring](screenshots/1_realtime_log_monitor.png)
+![Real-Time Monitoring](screenshot/1_realtime_log_monitor.png)
 
 ###  Threshold Detection
-![Threshold Detection](screenshots/2_threshold_detection.png)
+![Threshold Detection](screenshot/2_threshold_detection.png)
 
 ###  Alert Trigger
-![Alert Terminal](screenshots/3_alert_logging_terminal.png)
+![Alert Terminal](screenshot/3_alert_logging_terminal.png)
 
 ###  Alert Log File
-![Alert Log](screenshots/4_alert_log_file.png)
+![Alert Log](screenshot/4_alert_log_file.png)
 
 ###  Email Sent Confirmation
-![Email Sent](screenshots/5_email_sent_terminal.png)
+![Email Sent](screenshot/5_email_sent_terminal.png)
 
 ###  Email Alert Received
-![Email Alert](screenshots/6_email_alert.png)
+![Email Alert](screenshot/6_email_alert.png)
 
 ---
 
