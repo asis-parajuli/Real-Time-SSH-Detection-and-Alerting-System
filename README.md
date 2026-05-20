@@ -86,5 +86,5 @@ The system detects repeated failed SSH login attempts and responds instantly, mi
 ### 1. Clone Repo
 
 ```bash
-git clone https://github.com/yourusername/realtime-ssh-detection.git
+git clone https://github.com/asis-parajuli/realtime-ssh-detection.git
 cd realtime-ssh-detection
